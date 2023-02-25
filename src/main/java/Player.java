@@ -5,7 +5,7 @@
  *
  * The first constructor should take in a player's name, and set the Player object's playerName to the parameter.
  * Consider leveraging the 'this' keyword. Since a level is not provided, the constructor should also
- * set the player's level to 1 by default.
+ * set the player's level to 1 by default
  *
  * The second constructor will use a player's name and level to set the Player object's respective field.
  *
